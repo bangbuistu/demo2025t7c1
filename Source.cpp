@@ -12,6 +12,7 @@ int main()
 	cout<<"Tong =";
 	cout<<"u2";
 	cout<<"U1";
+	cout<<"Tam 2";
 	system("pause");
 	return 0;
 }
